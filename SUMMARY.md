@@ -1,0 +1,16 @@
+# Summary
+
+* [Introduction](README.md)
+* [1. Which audio setup do I use?](setup/README.md)
+  * [Acoustic/mic-captured performance](setup/acoustic.md)
+  * [DAW without external audio interface](setup/acoustic.md)
+  * [DAW with an external audio interface](setup/acoustic.md)
+* [2. A super fast introduction to OBS](obs.md)
+* [3. Video configuration](video.md)
+* [4. Audio configuration](audio/README.md)
+  * [Case 1: OBS + Mic/Aux Source](audio/micaux.md)
+  * [Case 2: OBS + Desktop Audio Source](audio/desktopaudio.md)
+  * [Case 3: OBS + ReaStream VST (Windows only)](audio/reastream.md)
+  * [Case 4: OBS + OBS-ASIO (Windows only)](audio/obsasio.md)
+  * [Case 5: OBS + OBS-ASIO + ASIO mixer (Windows only)](audio/asiomixer.md)
+  * [Case 6: OBS + BlackHole (macOS only)](audio/blackhole.md)
