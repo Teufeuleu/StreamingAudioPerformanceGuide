@@ -1,0 +1,18 @@
+{
+  "name": "A guide to live stream musical performances from home",
+  "version": "1.0.0",
+  "description": "This guide is intended for people wanting to live stream a musical performance from home. It provides informations for most kind of setups, from purely acoustic performances to more complex cases implying a DAW, an external sound card with connected instruments and mics.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook": "^6.14.2",
+    "gitbook-plugin-katex": "^1.1.4",
+    "katex": "^0.11.1",
+    "match-at": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.tflcl.xyz/tfl/StreamingAudioPerformance.git"
+  },
+  "author": "Théophile Clet",
+  "license": "ISC"
+}
