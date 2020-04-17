@@ -14,17 +14,19 @@ You are into Case 1 if:
 >     -   a secondary external sound card with MME/DirectX drivers as a looback input, or
 >     -   an external sound card with ASIO drivers and you loop your audio back into your built-in computer line-input.
 
+---
+
 If your whole audio come from a microphone, it may be already
-automatically selected as Mic/Aux source in the audio mixer.
+automatically selected as Mic/Aux source in the Audio Mixer.
 
 If not, you should be able to select it or any appropriate (non ASIO)
-audio input into OBS Preferences \> "Audio" tab \> "Mic/auxiliary Audio"
+audio input into the OBS Settings panel, "Audio" tab, "Mic/auxiliary Audio" device.
 drop-down list.
 
-You can also click the gear near-by the Mic/Aux source in the Audio
-Mixer, then click properties and select your correct or audio input in
+You can also click the gear ⚙️ near-by the Mic/Aux source in the Audio
+Mixer, then click Properties and select your correct or audio input in
 the "Device" drop-down list.
 
 You should then see the Mix/Aux VU-meter reacting to the captured audio.
 If so your audio is properly configured, good! You are now ready for
-part 3.
+part [5. Streaming configuration](../streaming.md).

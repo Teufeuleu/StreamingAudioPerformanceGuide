@@ -9,4 +9,4 @@ This is by far the hardest case of all, but also the most documented online. I h
 -   [Asio Link Pro](https://give.academy/posts/2018/03/02/AsioLinkPro/) (free) should be the most powerful and flexible solution, bu also the hardest to set up (thanks to a 20 years old GUI). [For the record](https://give.academy/posts/2018/03/02/AsioLinkPro/), it's an old piece of software which you had to pay for. The developer passed away a few years ago so nobody could buy it anymore. In 2019 his nephew decided to create a "legit" crack allowing anyone to use Asio Link Pro for free.
 -   [Jack Audio](https://jackaudio.org/downloads/) should be actually simpler to configure even though it does not provide a GUI (graphical user interface). All is done with command lines, but you need very few to get your setup working properly.
 
-If all these solutions seem too hard to get through, just go with Case 3.
+If all these solutions seem too hard to get through, just go with [Case 3](reastream.md).

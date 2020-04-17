@@ -9,7 +9,7 @@ BlackHole is the new "virtual audio device for macOS" replacement for SoundFlowe
 
 2.  Then open "Audio Midi Setup" app located in Applications/Utility. Once opened, click "Window" in the menu bar, then "Show audio devices".
 
-3.  Click the "+" in the bottom left, then "Add a multi-output device"
+3.  Click the ➕ in the bottom left, then "Add a multi-output device"
 
 4.  Click on the multi-output device you just created, then, depending on your case:
   -   If you uses no external sound card, tick the "Use" box for **each** of the following devices:
@@ -22,4 +22,4 @@ BlackHole is the new "virtual audio device for macOS" replacement for SoundFlowe
 
 5.  In your audio software, select the Multi-output device you just created as your audio output.
 6.  In OBS, open the Preferences/Settings, panel, go to the Audio tab, and select BlackHole as your Desktop Audio device. Click OK.
-7.  You should then see the corresponding VU-meter in the Audio mixer reacting to the audio sent by your audio software. You're done! Ready for part 3.
+7.  You should then see the corresponding VU-meter in the Audio mixer reacting to the audio sent by your audio software. You're done! Ready for part [5. Streaming configuration](../streaming.md).
