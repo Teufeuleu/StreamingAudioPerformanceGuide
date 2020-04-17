@@ -1,5 +1,8 @@
 # A super fast introduction to OBS
 
+**Note:** If you are already familiar with OBS, feel free to skip the next two parts and go straight to part [3. Which audio setup du I use?](setup/README.md).
+
+---
 
 1.  Start by downloading OBS Studio from [here](https://obsproject.com/download), then install it.
 

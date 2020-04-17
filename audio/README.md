@@ -1,6 +1,6 @@
 # 4. Audio configuration
 
-**Please read carefully [1. Which audio setup do I use?](./setup/README.md) to know which of the following case(s) will match your setup.**
+**Please read carefully [3. Which audio setup do I use?](../setup/README.md) to know which of the following case(s) will match your setup.**
 
 - [Case 1: OBS + Mic/Aux source](micaux.md)
 - [Case 2: OBS + Desktop Audio Source](desktopaudio.md)

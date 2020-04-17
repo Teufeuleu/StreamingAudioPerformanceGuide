@@ -1,12 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. Which audio setup do I use?](setup/README.md)
+* [1. A super fast introduction to OBS](obs.md)
+* [2. Video configuration](video.md)
+* [3. Which audio setup do I use?](setup/README.md)
   * [Acoustic/mic-captured performance](setup/dawless.md)
   * [DAW without external audio interface](setup/daw.md)
   * [DAW with an external audio interface](setup/dawinterface.md)
-* [2. A super fast introduction to OBS](obs.md)
-* [3. Video configuration](video.md)
 * [4. Audio configuration](audio/README.md)
   * [Case 1: OBS + Mic/Aux Source](audio/micaux.md)
   * [Case 2: OBS + Desktop Audio Source](audio/desktopaudio.md)

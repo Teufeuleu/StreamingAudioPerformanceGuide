@@ -15,4 +15,4 @@
 
 4.  Once you created your video source, make sure it fill the whole area of your scene by stretching it to the correct dimension. To stretch it, select the source in the Sources window, then a red frame should appear around your view. Click a corner and stretch.
 
-5.  Good, you can now go to the next part to [configure your audio](audio/README.md).
+5.  Good, you can now go to the next part to [fid the best audio setup that fits your situation](audio/README.md).

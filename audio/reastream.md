@@ -38,7 +38,7 @@ The following instructions are based on ReaStream, a VST plugin made to send aud
 
 12. Now if you play some sound in your audio software you should get it into your OBS audio input capture device. If so, you're good to go to part [5. Streaming configuration](../streaming.md). If not, see below for some troubleshooting.
 
-What to do if ReaStream in OBS do not receive sound from my audio software?
+## What to do if ReaStream in OBS does not receive sound from my audio software?
 
 - Make sure you are using the same sample rate (44.1Khz or 48KHz) in your audio software and OBS (Settings \> Audio tab)
 - Right click the Audio input capture, open "Properties" then select another input device. For some reasons, it might not work with some devices (especially the "Default" one).
