@@ -2,7 +2,7 @@
 
 This guide is intended for people wanting to live stream a musical performance from home. It provides informations for most kind of setups, from purely acoustic performances to more complex cases implying a DAW, an external sound card with connected instruments and mics.
 
-It focuses mainly on audio configuration as it might be the most tricky part depending on your setup, although it also includes walkthroughs for all the steps from installing a streaming software to actually start streaming.
+**It focuses mainly on audio configuration** as it might be the most tricky part depending on your setup, although it also includes walkthroughs for all the steps from installing a streaming software to actually start streaming.
 
 ## Prerequisites
 
