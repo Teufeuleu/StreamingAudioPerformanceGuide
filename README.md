@@ -1,7 +1,8 @@
 # A guide to live stream musical performances from home
 
-**This guide is available online [here](https://tflcl.xyz/MusicalPerformanceStreamingGuide/)**
-**Contributions are welcome: [github repo](https://github.com/Teufeuleu/StreamingAudioPerformanceGuide)**
+### Available online [here](https://tflcl.xyz/MusicalPerformanceStreamingGuide/)
+
+### Contributions are welcome: [github repo](https://github.com/Teufeuleu/StreamingAudioPerformanceGuide)
 
 This guide is intended for people wanting to live stream a musical performance from home. It provides informations for most kind of setups, from purely acoustic performances to more complex cases implying a DAW, an external sound card with connected instruments and mics.
 
