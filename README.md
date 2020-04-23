@@ -1,5 +1,7 @@
 # A guide to live stream musical performances from home
 
+V1.0 written by [TFLCL.XYZ](http://tflcl.xyz)
+
 ### Available online [here](https://tflcl.xyz/MusicalPerformanceStreamingGuide/)
 
 ### Contributions are welcome: [github repo](https://github.com/Teufeuleu/StreamingAudioPerformanceGuide)
